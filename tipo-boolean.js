@@ -7,7 +7,7 @@ if (estaAprovado) {
    console.log('REPROVADO,boas festas');
 }
 
-if (estudante == 'Fernando') {
+if (estudante === 'Fernando') {
     console.log(`ola, ${estudante}`);
 }else {
     console.log('quem é vc');
